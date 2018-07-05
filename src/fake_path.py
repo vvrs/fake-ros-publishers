@@ -5,7 +5,7 @@ from nav_msgs.msg import Path
 from geometry_msgs.msg import PoseStamped
 
 class publishFakePath:
-		'''This requires odom data, if not available run fake_odom.py'''
+	'''This requires odom data, if not available run fake_odom.py'''
 
 	def __init__(self):
 

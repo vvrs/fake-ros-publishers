@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# taken from https://gist.github.com/atotto/f2754f75bedb6ea56e3e0264ec405dcf
+# taken from https://gist.github.com/atotto/f2754f75bedb6ea56e3e0264ec405dcf 
 
 
 import math
